@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <!-- Device-specific repositories -->
+    <project name="LineageOS-MediaTek/android_device_motorola_nicklaus" path="device/motorola/nicklaus" remote="github" revision="cm-14.1" />
+    <project name="LineageOS-MediaTek/android_device_mediatek_mt6737-common" path="device/mediatek/common" remote="github" revision="cm-14.1" />
+
+    <!-- Vendor blobs -->
+    <project name="LineageOS-MediaTek/proprietary_vendor_motorola" path="vendor/motorola" remote="github" revision="cm-14.1" />
+
+    <!-- Kernel source -->
+    <project name="mhdzumair/MhDzMR-Kernel-Nicklaus" path="kernel/motorola/nicklaus" remote="github" revision="master" />
+</manifest>
