@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+    
+    <remote name="github" fetch="https://github.com/" />
     <!-- Device-specific repositories -->
     <project name="LineageOS-MediaTek/android_device_motorola_nicklaus" path="device/motorola/nicklaus" remote="github" revision="cm-14.1" />
     <project name="LineageOS-MediaTek/android_device_mediatek_mt6737-common" path="device/mediatek/common" remote="github" revision="cm-14.1" />
