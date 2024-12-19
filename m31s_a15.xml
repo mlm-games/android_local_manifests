@@ -27,7 +27,7 @@
   <project path="device/samsung_slsi/sepolicy" name="android_device_samsung_slsi_sepolicy" remote="linux4-bringup-priv" />
   <project path="device/samsung/a51" name="android_device_samsung_a51" remote="Development" />
   <project path="device/samsung/f41" name="android_device_samsung_f41" remote="Development" />
-  <project path="device/samsung/m31s" name="mlm-studios/android_device_samsung_m31s" remote="github" revision="lineage-22" />
+  <project path="device/samsung/m31s" name="mlm-games/android_device_samsung_m31s" remote="github" revision="voltage-10" />
   <project path="device/samsung/m31" name="android_device_samsung_m31" remote="Development" />
   <project path="device/samsung/m21" name="android_device_samsung_m21" remote="Development" />
   <!-- Vendor trees -->
