@@ -42,7 +42,7 @@
     <remote name="grapgene"
         fetch="https://github.com/GrapheneOS/" />
     <project path="external/AppStore" name="platform_external_AppStore"
-        remote="grapgene" revision="14" />
+        remote="grapgene" revision="15" />
 
     <!-- Kprofiles -->
     <remote name="kprofiles"
