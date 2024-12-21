@@ -6,8 +6,6 @@
   <remote name="linux4-bringup-priv"
      fetch="https://github.com/linux4-bringup-priv/"
      revision="lineage-22.0" />
-  <!-- <remote name="github"
-     fetch="https://github.com/" /> -->
     <!-- Sync hardware -->
   <project path="hardware/samsung" name="Roynas-Android-Playground/android_hardware_samsung" remote="github" revision="fifteen" clone-depth="1" />
   <project path="hardware/samsung_slsi/libbt" name="android_hardware_samsung_slsi_libbt" remote="linux4-bringup-priv" clone-depth="1" />
