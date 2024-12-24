@@ -37,10 +37,10 @@
   <project path="vendor/samsung/m31" name="android_vendor_samsung_m31" remote="Development" clone-depth="1" />
 
     <!-- Graphene Apps -->
-    <remote name="grapgene"
+    <remote name="graphene"
         fetch="https://github.com/GrapheneOS/" />
     <project path="external/AppStore" name="platform_external_AppStore"
-        remote="grapgene" revision="15" />
+        remote="graphene" revision="15" />
 
     <!-- Kprofiles -->
     <remote name="kprofiles"
