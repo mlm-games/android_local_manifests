@@ -36,7 +36,7 @@
   <project path="vendor/samsung/m31s" name="android_vendor_samsung_m31s" remote="Development" clone-depth="1" />
 
   <!-- Lineage vendor for matrix xml (instead of cloning common, would be easier -->
-  <project path="vendor/lineage" name="android_vendor_lineage" remote="lineage" clone-depth="1" />
+<!--   <project path="vendor/lineage" name="android_vendor_lineage" remote="lineage" clone-depth="1" /> -->
 
     <!-- Graphene Apps -->
 <!--     <remote name="graphene"
